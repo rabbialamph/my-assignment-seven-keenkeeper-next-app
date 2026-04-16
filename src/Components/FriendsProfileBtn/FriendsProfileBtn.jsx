@@ -3,10 +3,10 @@
 import React from "react";
 import Image from "next/image";
 import { toast } from "react-toastify";
-import { useApps } from "@/hooks/useApps";
-import callimg from "@/assets/call.png";
-import textimg from "@/assets/text.png";
-import videoimg from "@/assets/video.png";
+import { useApps } from "../../hooks/useApps";
+import callimg from "../../assets/call.png";
+import textimg from "../../assets/text.png";
+import videoimg from "../../assets/video.png";
 
 
 const FriendsProfileBtn = ({ app }) => {

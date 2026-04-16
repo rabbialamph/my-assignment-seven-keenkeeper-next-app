@@ -1,5 +1,5 @@
 'use client'
-import Chart from "@/components/Chart/Chart";
+import Chart from "../../components/Chart/Chart";
 
 
 

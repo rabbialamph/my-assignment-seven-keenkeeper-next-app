@@ -3,7 +3,7 @@
 import React, { useState } from "react";
 import Image from "next/image";
 import { FaAngleDown } from "react-icons/fa";
-import { useApps } from "@/hooks/useApps";
+import { useApps } from "../../hooks/useApps";
 
 const CTVhistory = () => {
   const { history } = useApps();

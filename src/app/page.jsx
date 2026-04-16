@@ -1,6 +1,6 @@
-import Banner from "@/components/Homepage/Banner";
-import FriendsSection from "@/components/Homepage/FriendsSection/FriendsSection";
-import StatsCard from "@/components/Homepage/StatsCard";
+import Banner from "../components/Homepage/Banner";
+import FriendsSection from "../components/Homepage/FriendsSection/FriendsSection";
+import StatsCard from "../components/Homepage/StatsCard";
 
 export const metadata = {
   title: "Home | Keen Keeper",

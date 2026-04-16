@@ -1,4 +1,4 @@
-import CTVhistory from '@/components/Timeline/Timeline';
+import CTVhistory from '../../components/Timeline/Timeline';
 
 export const metadata = {
   title: "Timeline | Keen Keeper",

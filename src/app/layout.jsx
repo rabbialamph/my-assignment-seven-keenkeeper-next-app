@@ -3,8 +3,8 @@ import "./globals.css";
 
 
 import { ToastContainer } from "react-toastify";
-import Navbar from "@/components/Navbar/Navbar";
-import Footer from "@/components/Footer/Footer";
+import Navbar from "../components/Navbar/Navbar";
+import Footer from "../components/Footer/Footer";
 import Providers from "./lib/providers";
 
 
