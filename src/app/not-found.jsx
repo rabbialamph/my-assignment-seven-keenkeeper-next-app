@@ -1,4 +1,7 @@
-"use client";
+export const metadata = {
+  title: "page not found",
+  description: "404 error page not found",
+};
 
 import Link from "next/link";
 

@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
-import logoimg from "../../assets/logo-xl.png";
+import logoimg from "@/assets/logo-xl.png";
 import { FaFacebook, FaGithub, FaLinkedin } from 'react-icons/fa';
 
 const Footer = () => {

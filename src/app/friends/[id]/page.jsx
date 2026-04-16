@@ -1,6 +1,4 @@
-import FriendsDetailsUI from "../../../components/FriendsDetailsUI/FriendsDetailsUI.jsx";
-
-
+import FriendsDetailsUI from "@/components/FriendsDetailsUI/FriendsDetailsUI";
 
 const appPromise = async () => {
     const res = await fetch("http://localhost:3000/friends.json", {

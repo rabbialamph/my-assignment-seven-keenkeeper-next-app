@@ -1,5 +1,5 @@
 import Image from "next/image";
-import FriendsProfileBtn from "../friendsprofilebtn/FriendsProfileBtn";
+import FriendsProfileBtn from "../FriendsProfileBtn/FriendsProfileBtn";
 
 const FriendsDetailsUI = ({ app, getStatusStyle }) => {
     return (

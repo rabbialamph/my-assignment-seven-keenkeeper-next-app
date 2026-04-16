@@ -1,5 +1,5 @@
 
-import { AppContext } from "../context/appContext.jsx";
+import { AppContext } from "@/context/appContext";
 import { useContext } from "react";
 
 

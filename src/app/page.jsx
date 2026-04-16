@@ -1,6 +1,11 @@
-import Banner from "../components/Homepage/Banner.jsx";
-import FriendsSection from "../components/Homepage/FriendSection/FriendsSection.jsx";
-import StatsCard from "../components/Homepage/StatsCard.jsx";
+import Banner from "@/components/Homepage/Banner";
+import FriendsSection from "@/components/Homepage/FriendsSection/FriendsSection";
+import StatsCard from "@/components/Homepage/StatsCard";
+
+export const metadata = {
+  title: "Home | Keen Keeper",
+  description: "Friends and stats of the user",
+};
 
 
 export default function Home() {

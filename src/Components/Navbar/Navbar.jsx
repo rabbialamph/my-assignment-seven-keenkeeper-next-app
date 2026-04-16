@@ -1,7 +1,7 @@
 import Link from "next/link";
 import NavLinks from "./NavLinks";
 import Image from "next/image";
-import logoimg from "../../assets/logo.png";
+import logoimg from "@/assets/logo.png";
 
 
 

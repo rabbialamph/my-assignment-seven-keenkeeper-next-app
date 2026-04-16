@@ -1,6 +1,7 @@
 'use client';
 
-import { useApps } from "../../hooks/useApps.jsx";
+import { useApps } from "@/hooks/useApps";
+
 
 const StatsCard = () => {
   
