@@ -2,7 +2,7 @@
 
 import React, { useState } from "react";
 import Image from "next/image";
-import { useApps } from "@/hooks/useApps";
+import { useApps } from "../../hooks/useApps.jsx";
 import { FaAngleDown } from "react-icons/fa";
 
 const CTVhistory = () => {

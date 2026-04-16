@@ -1,5 +1,5 @@
 'use client';
-import AppDataProvider from "@/context/appContext";
+import AppDataProvider from "../../../context/appContext.jsx";
 
 const Providers = ({ children }) => {
     return (

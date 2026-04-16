@@ -1,4 +1,4 @@
-import FriendsDetailsUI from "@/components/FriendsDetailsUI/FriendsDetailsUI";
+import FriendsDetailsUI from "../../../components/FriendsDetailsUI/FriendsDetailsUI.jsx";
 
 
 

@@ -1,8 +1,8 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
-import Footer from "@/components/Footer/Footer";
-import Navbar from "@/components/Navber/Navber";
+import Footer from "../components/Footer/Footer.jsx";
+import Navbar from "../components/Navber/Navber.jsx";
 import Providers from "./lib/providers";
 import { ToastContainer } from "react-toastify";
 

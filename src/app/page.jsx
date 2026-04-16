@@ -1,7 +1,7 @@
-import Banner from "@/components/Homepage/Banner";
-import FriendsSection from "@/components/Homepage/FriendSection/FriendsSection";
-import StatsCard from "@/components/Homepage/StatsCard";
-import Image from "next/image";
+import Banner from "../components/Homepage/Banner.jsx";
+import FriendsSection from "../components/Homepage/FriendSection/FriendsSection.jsx";
+import StatsCard from "../components/Homepage/StatsCard.jsx";
+
 
 export default function Home() {
   return (

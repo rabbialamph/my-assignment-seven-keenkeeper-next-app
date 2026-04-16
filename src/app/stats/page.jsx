@@ -1,5 +1,5 @@
 'use client';
-import { useApps } from "@/hooks/useApps";
+import { useApps } from "../../hooks/useApps.jsx";
 import { Legend, Pie, PieChart, Tooltip } from "recharts";
 
 
